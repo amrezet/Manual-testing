@@ -1,0 +1,39 @@
+Title:
+Galaxy A70 - PLP -  Incorrect Number Of Item After Choosing Filter Size.
+
+Action Performed:
+1. Open the test URL: https://www.alexandermcqueen.com/en-us
+2. Click the Menu
+3. Click "Men"
+4. Click "Shoes"
+5. Click "View all"
+6. Click "Filter"
+7. Select Any Size
+
+Expected Result:
+The number of 'SHOW ITEMS' is changing.
+
+Actual Result:
+When the user opens the filter page and selects a size, the "SHOW ITEMS" count does not change.
+
+Did you attach an mp4 video?: 974821
+Tester Location: United Kingdom
+App/Website Language: UK/English
+Did you attach a screenshot?: 974820
+Did you attach a Log with timestamp?: 974819
+Exact URL: https://www.alexandermcqueen.com/en-gb/ca/men/shoes
+Attachment
+c1de11f6-c48c-43d9-8c27-6bf4f76bdc90.jpg: https://platform.utest.com/services/links/v1/internal/51399001?.jpg
+WhatsApp_Video_2024-05-28_at_12.45.48_AM.mp4: https://platform.utest.com/services/links/v1/internal/51399020?.mp4
+log.txt: https://platform.utest.com/services/links/v1/internal/51399028?.txt
+
+Environment
+Samsung Galaxy A70 - Android 11, Wi-Fi, Chrome
+
+Applause ID: 6493424
+Applause Status: New
+Valuable: 
+Creation Date: 05/27/2024
+Bug Type: Functional
+Frequency: Every Time
+Severity: Medium

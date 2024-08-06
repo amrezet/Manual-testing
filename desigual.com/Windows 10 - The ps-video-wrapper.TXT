@@ -1,0 +1,37 @@
+Title:
+Windows 10 - The "ps-video-wrapper" on the page is unresponsive.
+
+Action Performed:
+1. Open the testing website https://www.desigual.com/en_US/
+2. Scroll down to the "DESIGUAL COMMUNITY"
+3. Click the "DISCOVER MORE"
+4. Click any item that shows a video
+5. Click on the "video wrapper" once the video concludes
+
+Expected Result:
+The user can run the video again after it ends on the "ps-video-player" page
+
+Actual Result:
+When a user clicks on the "video wrapper" after a video concludes, the "ps-video-wrapper" on the page becomes unresponsive.
+
+Did you attach an mp4 video? : 938430
+Did you submit your test case?: 938428
+Did you attach a screenshot?: 938427
+Did you configure the wildcard host SSL? (host *, port 443) : 938432
+Did you attach a Charles Log?: 938431
+Attachment
+www.desigual.com-1712798577381.log: https://platform.utest.com/services/links/v1/internal/50447448?.log
+Recording__9.mp4: https://platform.utest.com/services/links/v1/internal/50447449?.mp4
+Screenshot_2024-04-11_025623.jpg: https://platform.utest.com/services/links/v1/internal/50447450?.jpg
+desigual: https://platform.utest.com/services/links/v1/internal/50447451
+
+Environment
+Windows 10 - Chrome
+
+Applause ID: 6445309
+Applause Status: New
+Valuable: 
+Creation Date: 04/11/2024
+Bug Type: Functional
+Frequency: Every Time
+Severity: Medium

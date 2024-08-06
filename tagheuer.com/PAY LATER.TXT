@@ -1,0 +1,54 @@
+Title:
+Windows 10 - "PAY LATER" option doesn't work in the product page.
+
+Action Performed:
+1.  Open the testing website https://www.tagheuer.com
+2. Scroll down to the "WATCHES SELECTION"
+3.  Click any product from the section 
+4. Scroll down to the "reinsurance swiper-wrapper" 
+5. Click the "PAY LATER"
+
+Expected Result:
+When the user clicks the "PAY LATER" option, information regarding it will be displayed.
+
+Actual Result:
+When the user selects a product, clicking "PAY LATER" reveals details about the payment option on the product page, The 'Pay Later' option is not functioning.
+
+Did you attach a screenshot?: 926878
+Did you submit your test case?: 926876
+Did you attach a Log with timestamps?: 926875
+Did you attach an mp4 video?: 926874
+Attachment
+us.louisvuitton.com-1712331269288.txt: https://platform.utest.com/services/links/v1/internal/50331611?.txt
+Recording__7.mp4: https://platform.utest.com/services/links/v1/internal/50331654?.mp4
+Untitfled.png: https://platform.utest.com/services/links/v1/internal/50331681?.png
+
+Environment
+Windows 10 - Chrome
+
+Applause ID: 6437280
+Applause Status: Disputed
+Valuable: 
+Creation Date: 010/03/2024
+Bug Type: Visual
+Frequency: Every Time
+Severity: Medium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

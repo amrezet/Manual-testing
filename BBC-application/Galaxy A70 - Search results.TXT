@@ -1,0 +1,39 @@
+Title:
+Galaxy A70 - Search results - The page "Missile..." does not fully display at the bottom.
+
+Action Performed:
+1. Open the testing application "BBC".
+2. Tap the "More" At the bottom.
+3. Input "مصر" in the search bar.
+4. Tap the "Missile strikes..".
+5. Swipe down the end of the page.
+
+Expected Result:
+The user can view all information on the page.
+
+Actual Result:
+When the user taps on a search bar, writes "مصر" in the search bar, taps the "Missile strikes.."  and swipes the end of the page can't view all the information
+
+Did you attach a screenshot?: 938419
+Did you attach an mp4 video?: 938418
+Which tool have you used to collect the log?: SDK Platform Tools
+Did you attach a Log with timestamps?: 938417
+App Version: 8.0.1.3
+Tester Location: Egypt
+App/Website Language: English
+Did you submit your test case?: 938420
+Attachment
+log.txt: https://platform.utest.com/services/links/v1/internal/50403118?.txt
+zxfcgvhb.png: https://platform.utest.com/services/links/v1/internal/50403119?.png
+Screen_Recording_20240409-055737_BBC.mp4: https://platform.utest.com/services/links/v1/internal/50403120?.mp4
+
+Environment
+Samsung Galaxy A70 - Android 11, Wi-Fi, Chrome
+
+Applause ID: 6443083
+Applause Status: New
+Valuable: 
+Creation Date: 04/09/2024
+Bug Type: Visual
+Frequency: Every Time
+Severity: Low

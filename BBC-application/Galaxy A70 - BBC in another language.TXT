@@ -1,0 +1,36 @@
+Title:
+Galaxy A70 - BBC in another language - Not available in the App.
+
+Action Performed:
+1. Open the testing app "BBC".
+2. Tap "More" at the bottom.
+3. Tap "Settings".
+
+Expected Result:
+The language can be changed by the user on the settings page.
+
+Actual Result:
+When the user accesses the settings page, they cannot locate the language change option.
+
+Did you attach a screenshot?: 938419
+Did you attach an mp4 video?: 938418
+Which tool have you used to collect the log?: SDK Platform Tools
+Did you attach a Log with timestamps?: 938417
+App Version: 8.0.1.3
+Tester Location: Egypt
+App/Website Language: English
+Did you submit your test case?: 938420
+Attachment
+Screen_Recording_20240409-070541_BBC.mp4: https://platform.utest.com/services/links/v1/internal/50403686?.mp4
+log.txt: https://platform.utest.com/services/links/v1/internal/50403687?.txt
+
+Environment
+Samsung Galaxy A70 - Android 11, Wi-Fi, Chrome
+
+Applause ID: 6443104
+Applause Status: New
+Valuable: 
+Creation Date: 04/09/2024
+Bug Type: Visual
+Frequency: Every Time
+Severity: Medium

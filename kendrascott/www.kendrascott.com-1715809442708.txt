@@ -1,0 +1,512 @@
+00:43:35.658 www.kendrascott.com/:1 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:38.274 www.kendrascott.com/:1 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:38.832 Navigated to https://www.kendrascott.com/
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.896 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:39.502 www.kendrascott.com/:134 
+        
+        
+       GET https://www.kendrascott.com/on/demandware.static/Sites-KendraScott-Site/-/en_US/v1715763389646/lib/js/splide.min.js net::ERR_ABORTED 404 (Not Found)
+00:43:39.502 www.kendrascott.com/:2928 Refused to execute script from 'https://www.kendrascott.com/on/demandware.static/Sites-KendraScott-Site/-/en_US/v1715763389646/lib/js/splide.min.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled.
+00:43:39.658 record-api.js:169 root:0
+00:43:39.725 VM18363 record-api.js:169 root:1
+00:43:40.243 VM18525 record-api.js:169 root
+00:43:40.588 about:blank:1 Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.
+00:43:40.710 js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:227 Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading
+hca @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:227
+google.maps.Load @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:14
+(anonymous) @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:408
+(anonymous) @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:408
+00:43:41.092 affirm.js:2 Warning: affirm.js may not work properly due to the follow issue: Third Party Cookies not available
+(anonymous) @ affirm.js:2
+(anonymous) @ affirm.js:2
+(anonymous) @ affirm.js:2
+o @ affirm.js:2
+00:43:41.454 VM18714 record-api.js:169 root:2
+00:43:42.189 cld-video-player.min.js:2 Cloudinary.new() is deprecated and will be removed. Please use cloudinary.videoPlayer() instead.
+new @ cld-video-player.min.js:2
+t.exports @ pageDesigner.js:7
+t.exports @ pageDesigner.js:1
+(anonymous) @ pageDesigner.js:1
+e @ main.js:26
+t @ main.js:26
+setTimeout (async)
+(anonymous) @ main.js:26
+o @ main.js:26
+fireWith @ main.js:26
+fire @ main.js:26
+o @ main.js:26
+fireWith @ main.js:26
+ready @ main.js:26
+setTimeout (async)
+(anonymous) @ main.js:26
+(anonymous) @ main.js:15
+0 @ main.js:15
+o @ main.js:1
+319 @ main.js:35
+o @ main.js:1
+(anonymous) @ main.js:1
+(anonymous) @ main.js:1
+00:43:42.401 VM18880 record-api.js:169 root:3
+00:43:42.574 VM19026 record-api.js:169 root:4
+00:43:42.760 VM19172 record-api.js:169 root:5
+00:43:42.925 VM19318 record-api.js:169 root:6
+00:43:43.250 record-api.js:169 root
+00:43:43.338 about:blank:1 Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.
+00:43:43.343 record-api.js:30 Received from "root:2" in "root"
+00:43:43.594 record-api.js:30 Received from "root:3" in "root"
+00:43:43.599 record-api.js:30 Received from "root:4" in "root"
+00:43:43.629 record-api.js:30 Received from "root:5" in "root"
+00:43:43.657 record-api.js:30 Received from "root:6" in "root"
+00:43:43.850 VM18714 record-api.js:66 Received locators in 'root:2' ['css=iframe.ot-text-resize']
+00:43:43.850 VM18714 record-api.js:71 FrameLocation updated to {location: 'root:2', locators: Array(1)}
+00:43:43.858 VM19611:100 test1
+00:43:43.965 VM18880 record-api.js:66 Received locators in 'root:3' ['id=__JSBridgeIframe_1.0__']
+00:43:43.965 VM18880 record-api.js:71 FrameLocation updated to {location: 'root:3', locators: Array(1)}
+00:43:43.966 VM19026 record-api.js:66 Received locators in 'root:4' ['id=__JSBridgeIframe_SetResult_1.0__']
+00:43:43.966 VM19026 record-api.js:71 FrameLocation updated to {location: 'root:4', locators: Array(1)}
+00:43:43.967 VM19172 record-api.js:66 Received locators in 'root:5' ['id=__JSBridgeIframe__']
+00:43:43.967 VM19172 record-api.js:71 FrameLocation updated to {location: 'root:5', locators: Array(1)}
+00:43:43.968 VM19318 record-api.js:66 Received locators in 'root:6' ['id=__JSBridgeIframe_SetResult__']
+00:43:43.968 VM19318 record-api.js:71 FrameLocation updated to {location: 'root:6', locators: Array(1)}
+00:43:44.256 record-api.js:169 root:8
+00:43:44.538 record-api.js:30 Received from "root:8" in "root"
+00:43:44.784 record-api.js:169 root:7
+00:43:44.910 record-api.js:66 Received locators in 'root:8' ['//body/iframe[3]']
+00:43:44.910 record-api.js:71 FrameLocation updated to {location: 'root:8', locators: Array(1)}
+00:43:45.341 VM19660 record-api.js:169 root:9
+00:43:45.400 record-api.js:169 root:10
+00:43:45.483 record-api.js:169 root:11
+00:43:45.527 record-api.js:169 root:12
+00:43:45.627 VM19806 record-api.js:169 root:11
+00:43:45.787 record-api.js:30 Received from "root:7" in "root"
+00:43:45.819 record-api.js:30 Received from "root:10" in "root"
+00:43:45.829 record-api.js:30 Received from "root:11" in "root"
+00:43:45.831 record-api.js:30 Received from "root:12" in "root"
+00:43:45.834 record-api.js:169 root:13:0
+00:43:45.971 record-api.js:30 Received from "root:9" in "root"
+00:43:46.009 record-api.js:66 Received locators in 'root:12' ['id=bcx_local_storage_frame']
+00:43:46.009 record-api.js:66 Received locators in 'root:7' ['//body/iframe[2]']
+00:43:46.010 record-api.js:71 FrameLocation updated to {location: 'root:7', locators: Array(1)}
+00:43:46.010 record-api.js:71 FrameLocation updated to {location: 'root:12', locators: Array(1)}
+00:43:46.270 record-api.js:169 root:12
+00:43:46.607 VM20051 record-api.js:169 root:13
+00:43:46.777 VM19660 record-api.js:66 Received locators in 'root:9' ['id=usabilla_live_button_container_iframe20790770']
+00:43:46.777 VM19660 record-api.js:71 FrameLocation updated to {location: 'root:9', locators: Array(1)}
+00:43:46.943 record-api.js:30 Received from "root:13" in "root"
+00:43:47.315 record-api.js:30 Received from "root:12" in "root"
+00:43:47.339 VM20051 record-api.js:66 Received locators in 'root:13' ['//iframe[7]']
+00:43:47.340 VM20051 record-api.js:71 FrameLocation updated to {location: 'root:13', locators: Array(1)}
+00:43:47.557 VM20246 record-api.js:169 root:15
+00:43:47.675 record-api.js:66 Received locators in 'root:12' ['css=iframe[title="ge_speedup_checkout"]']
+00:43:47.675 record-api.js:71 FrameLocation updated to {location: 'root:12', locators: Array(1)}
+00:43:47.879 record-api.js:30 Received from "root:15" in "root"
+00:43:47.891 inlineForm.html:13 Unchecked runtime.lastError: You do not have a background page.
+00:43:48.009 VM20246 record-api.js:66 Received locators in 'root:15' ['id=iadvize-orchestrator']
+00:43:48.010 VM20246 record-api.js:71 FrameLocation updated to {location: 'root:15', locators: Array(1)}
+00:43:48.078 www.kendrascott.com/:1 The resource https://fonts.googleapis.com/css2?family=Cormorant&family=Inter:wght@300;400;500&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+00:43:49.161 Navigated to https://www.kendrascott.com/new/shop-all-new-arrivals/brynne-gold-shell-short-pendant-necklace-in-blush-ivory-mother-of-pearl/196088600970.html
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.368 Third-party cookie will be blocked. Learn more in the Issues tab.
+00:43:50.524 record-api.js:169 root:0
+00:43:50.524 record-api.js:169 root:1
+00:43:51.139 record-api.js:169 root
+00:43:51.287 about:blank:1 Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.
+00:43:51.352 js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:227 Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading
+hca @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:227
+google.maps.Load @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:14
+(anonymous) @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:408
+(anonymous) @ js?key=AIzaSyDcnI2yvRoTXevR-LzPNItVXm5EhSOptvk:408
+00:43:51.425 affirm.js:2 Warning: affirm.js may not work properly due to the follow issue: Third Party Cookies not available
+(anonymous) @ affirm.js:2
+(anonymous) @ affirm.js:2
+(anonymous) @ affirm.js:2
+o @ affirm.js:2
+00:43:51.608 record-api.js:169 root:2
+00:43:51.848 VM20957 record-api.js:169 root:3
+00:43:52.042 VM21104 record-api.js:169 root:4
+00:43:52.226 VM21250 record-api.js:169 root:5
+00:43:52.409 record-api.js:169 root:6
+00:43:53.488 record-api.js:169 root:7
+00:43:53.680 record-api.js:169 root:8
+00:43:53.860 record-api.js:169 root:9
+00:43:54.019 record-api.js:169 root:10
+00:43:54.125 productDetail.js:10 /on/demandware.store/Sites-KendraScott-Site/en_US/Product-UpdateAddToCartAvailability?pid=196088600970
+00:43:54.281 record-api.js:169 root
+00:43:54.363 record-api.js:30 Received from "root:3" in "root"
+00:43:54.384 record-api.js:30 Received from "root:4" in "root"
+00:43:54.392 record-api.js:30 Received from "root:5" in "root"
+00:43:54.403 about:blank:1 Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.
+00:43:54.426 record-api.js:30 Received from "root:6" in "root"
+00:43:54.626 record-api.js:30 Received from "root:7" in "root"
+00:43:54.648 record-api.js:30 Received from "root:8" in "root"
+00:43:54.659 record-api.js:30 Received from "root:9" in "root"
+00:43:54.769 record-api.js:30 Received from "root:10" in "root"
+00:43:54.850 VM20957 record-api.js:66 Received locators in 'root:3' ['id=jsx-iframe-f765c80f7a']
+00:43:54.850 VM20957 record-api.js:71 FrameLocation updated to {location: 'root:3', locators: Array(1)}
+00:43:54.935 VM21104 record-api.js:66 Received locators in 'root:4' ['id=jsx-iframe-af5d7c0c46']
+00:43:54.935 VM21104 record-api.js:71 FrameLocation updated to {location: 'root:4', locators: Array(1)}
+00:43:54.936 VM21250 record-api.js:66 Received locators in 'root:5' ['name=__detect_close_uid_c6f527493c_mje6ndm6nte__']
+00:43:54.936 VM21250 record-api.js:71 FrameLocation updated to {location: 'root:5', locators: Array(1)}
+00:43:54.949 record-api.js:66 Received locators in 'root:6' ['css=iframe.ot-text-resize']
+00:43:54.949 record-api.js:71 FrameLocation updated to {location: 'root:6', locators: Array(1)}
+00:43:55.247 VM22364:100 test1
+00:43:55.248 record-api.js:66 Received locators in 'root:7' ['id=__JSBridgeIframe_1.0__']
+00:43:55.249 record-api.js:71 FrameLocation updated to {location: 'root:7', locators: Array(1)}
+00:43:55.252 record-api.js:66 Received locators in 'root:8' ['id=__JSBridgeIframe_SetResult_1.0__']
+00:43:55.252 record-api.js:71 FrameLocation updated to {location: 'root:8', locators: Array(1)}
+00:43:55.253 record-api.js:66 Received locators in 'root:9' ['id=__JSBridgeIframe__']
+00:43:55.253 record-api.js:71 FrameLocation updated to {location: 'root:9', locators: Array(1)}
+00:43:55.350 record-api.js:66 Received locators in 'root:10' ['id=__JSBridgeIframe_SetResult__']
+00:43:55.350 record-api.js:71 FrameLocation updated to {location: 'root:10', locators: Array(1)}
+00:43:55.398 record-api.js:169 root:12
+00:43:55.627 record-api.js:30 Received from "root:12" in "root"
+00:43:55.791 record-api.js:66 Received locators in 'root:12' ['//body/iframe[4]']
+00:43:55.792 record-api.js:71 FrameLocation updated to {location: 'root:12', locators: Array(1)}
+00:43:55.984 record-api.js:169 root:3
+00:43:56.023 record-api.js:169 root:11
+00:43:56.300 record-api.js:30 Received from "root:3" in "root"
+00:43:56.305 record-api.js:30 Received from "root:11" in "root"
+00:43:56.467 record-api.js:66 Received locators in 'root:6' ['css=iframe.ot-text-resize']
+00:43:56.467 record-api.js:71 FrameLocation updated to {location: 'root:6', locators: Array(1)}
+00:43:56.815 record-api.js:169 root:10
+00:43:56.950 record-api.js:169 root:11
+00:43:57.225 record-api.js:169 root:12
+00:43:57.310 record-api.js:30 Received from "root:11" in "root"
+00:43:57.349 record-api.js:30 Received from "root:10" in "root"
+00:43:57.499 record-api.js:30 Received from "root:12" in "root"
+00:43:57.575 record-api.js:66 Received locators in 'root:11' ['//iframe[6]']
+00:43:57.575 record-api.js:66 Received locators in 'root:10' ['id=bcx_local_storage_frame']
+00:43:57.576 record-api.js:71 FrameLocation updated to {location: 'root:11', locators: Array(1)}
+00:43:57.576 record-api.js:71 FrameLocation updated to {location: 'root:10', locators: Array(1)}
+00:43:57.737 record-api.js:66 Received locators in 'root:12' ['id=iadvize-orchestrator']
+00:43:57.737 record-api.js:71 FrameLocation updated to {location: 'root:12', locators: Array(1)}
+00:43:58.432 record-api.js:169 root:13
+00:43:58.445 record-api.js:169 root:14
+00:43:58.532 record-api.js:169 root:15
+00:43:58.681 VM22940 record-api.js:169 root:15
+00:43:58.883 record-api.js:30 Received from "root:13" in "root"
+00:43:58.900 record-api.js:30 Received from "root:15" in "root"
+00:43:58.950 record-api.js:30 Received from "root:14" in "root"
+00:43:59.012 record-api.js:169 root:16:0
+00:43:59.438 record-api.js:169 root:15
+00:43:59.554 record-api.js:66 Received locators in 'root:15' ['css=iframe[title="ge_speedup_checkout"]']
+00:43:59.554 record-api.js:71 FrameLocation updated to {location: 'root:15', locators: Array(1)}
+00:43:59.555 record-api.js:66 Received locators in 'root:15' ['id=ga_data']
+00:43:59.555 record-api.js:71 FrameLocation updated to {location: 'root:15', locators: Array(1)}
+00:44:00.166 record-api.js:30 Received from "root:15" in "root"
+00:44:00.228 inlineForm.html:13 Unchecked runtime.lastError: You do not have a background page.
+00:44:00.272 record-api.js:66 Received locators in 'root:15' ['css=iframe[title="ge_speedup_checkout"]']
+00:44:00.273 record-api.js:71 FrameLocation updated to {location: 'root:15', locators: Array(1)}
+00:44:06.308 196088600970.html:1 The resource https://fonts.googleapis.com/css2?family=Cormorant&family=Inter:wght@300;400;500&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+00:44:34.150 196088600970.html:1 The resource https://fonts.googleapis.com/css2?family=Cormorant&family=Inter:wght@300;400;500&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+00:44:47.814 inlineForm.html:1 Error in event handler: Error: invalid arguments to extensionAdapter.sendMessageToTab
+    at e.sendMessageToTab (chrome-extension://caljgklbbfbcjjanaijlacgncafpegll/js/content/app/inlineForm/index.js:80:65501)
+    at e.handleMessage (chrome-extension://caljgklbbfbcjjanaijlacgncafpegll/js/content/app/inlineForm/index.js:80:106817)
+    at chrome-extension://caljgklbbfbcjjanaijlacgncafpegll/js/content/app/inlineForm/index.js:80:103083
+    at chrome-extension://caljgklbbfbcjjanaijlacgncafpegll/js/content/app/inlineForm/index.js:80:78040

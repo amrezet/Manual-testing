@@ -1,0 +1,38 @@
+Title:
+Windows 10 - The "left and right button" on the "video wrapper" is unresponsive.
+
+Action Performed:
+1. Open the test site https://www.desigual.com/en_US/
+2. Scroll to "DESIGUAL COMMUNITY"
+3. Select "DISCOVER MORE"
+4. Pick a video-displaying item
+5. Click the "video wrapper" after the video ends
+6. Click any left or right button
+
+Expected Result:
+The user can click any left or right button after it ends on the "video wrapper" page
+
+Actual Result:
+When a user clicks on the video page after a video concludes, the left or right button after on the page becomes unresponsive.
+
+Did you attach an mp4 video? : 938430
+Did you submit your test case?: 938428
+Did you attach a screenshot?: 938427
+Did you configure the wildcard host SSL? (host *, port 443) : 938432
+Did you attach a Charles Log?: 938431
+Attachment
+Recording__10.mp4: https://platform.utest.com/services/links/v1/internal/50448036?.mp4
+desigual_B.chls: https://platform.utest.com/services/links/v1/internal/50448037?.chls
+www.desigual.com-1712800989605_B.log: https://platform.utest.com/services/links/v1/internal/50448038?.log
+Screenshot_2024-04-11_035833.jpg: https://platform.utest.com/services/links/v1/internal/50448039?.jpg
+
+Environment
+Windows 10 - Chrome
+
+Applause ID: 6445331
+Applause Status: New
+Valuable: 
+Creation Date: 04/11/2024
+Bug Type: Functional
+Frequency: Every Time
+Severity: Medium

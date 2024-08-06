@@ -1,0 +1,29 @@
+Issue Title 
+Windows 10 - On the "Finde a Store" there is no picture in the search results page.
+
+Type
+Visual
+
+FREQUENCY
+every time
+
+PRIORITY 
+low
+
+SOURCE
+Exploratory
+
+MY ENVIRONMENTS 
+Windows 10 - Chrome
+
+Action Performed  
+1. Open the testing website https://us.louisvuitton.com/eng-us/homepage
+2. Click the search icon
+3. write "vi" in the search engine 
+4. click on the "Finde a Store" on the search results page
+
+Expected Result 
+When the user clicks on "Finde a Store" the correct information regarding it will be displayed.
+
+Actual Result 
+When the user clicks on a search icon, selecting "Finde a Store" displays details about it on the search results page. The page is still downloading and the final result hasn't appeared yet.

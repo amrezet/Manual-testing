@@ -1,0 +1,36 @@
+Title:
+Galaxy A70 - Search bar- does not appear on the home page
+
+Action Performed:
+1. Open the testing application "BBC".
+2. Tap the "Home".
+
+Expected Result:
+The user can search for news from the home page
+
+Actual Result:
+When the user opens the program, it does not appear on the home page, but it is on the more page.
+
+Did you attach a screenshot?: 938419
+Did you attach an mp4 video?: 938418
+Which tool have you used to collect the log?: SDK Platform Tools
+Did you attach a Log with timestamps?: 938417
+App Version: 8.0.1.3
+Tester Location: Egypt
+App/Website Language: English
+Did you submit your test case?: 938420
+Attachment
+Screen_Recording_20240409-064251_BBC.mp4: https://platform.utest.com/services/links/v1/internal/50403522?.mp4
+354c15df-f27d-4e8e-a2f1-5a4ebf8919bf.jpg: https://platform.utest.com/services/links/v1/internal/50403523?.jpg
+log.txt: https://platform.utest.com/services/links/v1/internal/50403524?.txt
+
+Environment
+Samsung Galaxy A70 - Android 11, Wi-Fi, Chrome
+
+Applause ID: 6443097
+Applause Status: New
+Valuable: 
+Creation Date: 04/09/2024
+Bug Type: Visual
+Frequency: Every Time
+Severity: High

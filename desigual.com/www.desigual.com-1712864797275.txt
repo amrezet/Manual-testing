@@ -1,0 +1,503 @@
+21:46:01.945 SnapInLib?versionModified=v2.2:898 onAvailability event was fired. Agent availability status = true
+21:46:02.821 VM881 content-all.js:8 Uncaught Error: Extension context invalidated.
+    at Object.get [as onChanged] (VM881 content-all.js:8:65678)
+    at Object.get (VM881 content-all.js:8:65321)
+    at VM881 content-all.js:274:33053
+    at VM881 content-all.js:280:44071
+    at SV (VM881 content-all.js:8:22443)
+    at nb (VM881 content-all.js:8:24153)
+    at $3 (VM881 content-all.js:8:41850)
+    at EHe (VM881 content-all.js:8:41396)
+    at gh (VM881 content-all.js:8:40427)
+    at kie (VM881 content-all.js:8:37007)
+get @ VM881 content-all.js:8
+get @ VM881 content-all.js:8
+(anonymous) @ VM881 content-all.js:274
+(anonymous) @ VM881 content-all.js:280
+SV @ VM881 content-all.js:8
+nb @ VM881 content-all.js:8
+$3 @ VM881 content-all.js:8
+EHe @ VM881 content-all.js:8
+gh @ VM881 content-all.js:8
+kie @ VM881 content-all.js:8
+e5 @ VM881 content-all.js:6
+_h @ VM881 content-all.js:8
+QS.unmount.yz.unmount @ VM881 content-all.js:8
+_te @ VM881 content-all.js:801
+21:46:03.380 Navigated to https://www.desigual.com/en_US/
+21:46:04.575 en_US/:1 Access to script at 'https://aacdn.nagich.com/core/4.5.11/accessibility.js' from origin 'https://www.desigual.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+21:46:04.575 en_US/:5635 
+        
+        
+       GET https://aacdn.nagich.com/core/4.5.11/accessibility.js net::ERR_FAILED 403 (Forbidden)
+(anonymous) @ en_US/:5635
+(anonymous) @ en_US/:5636
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.494 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:05.041 record-api.js:169 root
+21:46:05.442 record-api.js:169 root:1
+21:46:05.601 en_US/:1 Attestation check for Topics on https://www.desigual.com/ failed.
+21:46:05.662 record-api.js:169 root:2
+21:46:05.669 record-api.js:30 Received from "root:1" in "root"
+21:46:05.797 record-api.js:169 root:0
+21:46:05.936 record-api.js:30 Received from "root:2" in "root"
+21:46:05.976 record-api.js:66 Received locators in 'root:1' ['//iframe[2]']
+21:46:05.976 record-api.js:71 FrameLocation updated to {location: 'root:1', locators: Array(1)}
+21:46:06.083 record-api.js:30 Received from "root:0" in "root"
+21:46:06.173 VM2132 record-api.js:169 root:3
+21:46:06.306 record-api.js:169 root:0:0
+21:46:06.327 VM2277 record-api.js:169 root:4
+21:46:06.417 record-api.js:30 Received from "root:0:0" in "root:0"
+21:46:06.515 VM2424 record-api.js:169 root:5
+21:46:06.525 record-api.js:48 Waiting for parent locators to be resolved
+21:46:06.634 record-api.js:48 Waiting for parent locators to be resolved
+21:46:06.669 VM2570 record-api.js:169 root:6
+21:46:06.724 record-api.js:48 Waiting for parent locators to be resolved
+21:46:06.746 record-api.js:66 Received locators in 'root:2' ['id=criteo-syncframe-onetag']
+21:46:06.746 record-api.js:71 FrameLocation updated to {location: 'root:2', locators: Array(1)}
+21:46:06.811 record-api.js:66 Received locators in 'root:0' ['css=iframe']
+21:46:06.811 record-api.js:71 FrameLocation updated to {location: 'root:0', locators: Array(1)}
+21:46:06.833 record-api.js:66 Received locators in 'root:0:0' (2) ['css=iframe', 'css=iframe']
+21:46:06.833 record-api.js:71 FrameLocation updated to {location: 'root:0:0', locators: Array(2)}
+21:46:06.855 record-api.js:30 Received from "root:3" in "root"
+21:46:06.861 record-api.js:30 Received from "root:4" in "root"
+21:46:06.883 record-api.js:30 Received from "root:5" in "root"
+21:46:06.896 record-api.js:30 Received from "root:6" in "root"
+21:46:07.125 VM2132 record-api.js:66 Received locators in 'root:3' ['id=__JSBridgeIframe_1.0__']
+21:46:07.126 VM2132 record-api.js:71 FrameLocation updated to {location: 'root:3', locators: Array(1)}
+21:46:07.126 VM2277 record-api.js:66 Received locators in 'root:4' ['id=__JSBridgeIframe_SetResult_1.0__']
+21:46:07.126 VM2277 record-api.js:71 FrameLocation updated to {location: 'root:4', locators: Array(1)}
+21:46:07.126 VM2424 record-api.js:66 Received locators in 'root:5' ['id=__JSBridgeIframe__']
+21:46:07.127 VM2424 record-api.js:71 FrameLocation updated to {location: 'root:5', locators: Array(1)}
+21:46:07.216 VM2744 record-api.js:169 root:9
+21:46:07.290 VM2570 record-api.js:66 Received locators in 'root:6' ['id=__JSBridgeIframe_SetResult__']
+21:46:07.290 VM2570 record-api.js:71 FrameLocation updated to {location: 'root:6', locators: Array(1)}
+21:46:07.450 record-api.js:30 Received from "root:9" in "root"
+21:46:07.505 record-api.js:169 root:7
+21:46:07.666 VM2744 record-api.js:66 Received locators in 'root:9' ['css=iframe.ot-text-resize']
+21:46:07.666 VM2744 record-api.js:71 FrameLocation updated to {location: 'root:9', locators: Array(1)}
+21:46:07.715 record-api.js:169 root:8
+21:46:07.864 record-api.js:169 root:10
+21:46:08.016 record-api.js:30 Received from "root:10" in "root"
+21:46:08.125 record-api.js:66 Received locators in 'root:10' ['//iframe[5]']
+21:46:08.125 record-api.js:71 FrameLocation updated to {location: 'root:10', locators: Array(1)}
+21:46:08.157 record-api.js:30 Received from "root:7" in "root"
+21:46:08.159 record-api.js:30 Received from "root:8" in "root"
+21:46:08.265 record-api.js:66 Received locators in 'root:7' ['css=iframe[title="Criteo Fledge iframe"]']
+21:46:08.265 record-api.js:71 FrameLocation updated to {location: 'root:7', locators: Array(1)}
+21:46:08.266 record-api.js:66 Received locators in 'root:8' ['//body/iframe[4]']
+21:46:08.266 record-api.js:71 FrameLocation updated to {location: 'root:8', locators: Array(1)}
+21:46:09.624 VM2994 record-api.js:169 root:12
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:11.457 Third-party cookie will be blocked. Learn more in the Issues tab.
+21:46:09.844 Navigated to https://www.desigual.com/en_US/new/desigual/landing/
+21:46:10.682 landing/:1 Access to script at 'https://aacdn.nagich.com/core/4.5.11/accessibility.js' from origin 'https://www.desigual.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+21:46:10.682 landing/:2444 
+        
+        
+       GET https://aacdn.nagich.com/core/4.5.11/accessibility.js net::ERR_FAILED 403 (Forbidden)
+(anonymous) @ landing/:2444
+(anonymous) @ landing/:2445
+21:46:10.880 record-api.js:169 root
+21:46:11.558 record-api.js:169 root:0
+21:46:11.673 record-api.js:169 root:4
+21:46:11.709 record-api.js:169 root:1
+21:46:11.847 record-api.js:169 root:2
+21:46:11.996 record-api.js:169 root:3
+21:46:12.118 record-api.js:30 Received from "root:4" in "root"
+21:46:12.125 landing/:1 Attestation check for Topics on https://www.desigual.com/ failed.
+21:46:12.144 record-api.js:30 Received from "root:0" in "root"
+21:46:12.159 record-api.js:30 Received from "root:1" in "root"
+21:46:12.162 record-api.js:30 Received from "root:2" in "root"
+21:46:12.179 record-api.js:30 Received from "root:3" in "root"
+21:46:12.545 record-api.js:169 root:5
+21:46:12.620 record-api.js:66 Received locators in 'root:4' ['id=criteo-syncframe-onetag']
+21:46:12.621 record-api.js:71 FrameLocation updated to {location: 'root:4', locators: Array(1)}
+21:46:12.675 record-api.js:66 Received locators in 'root:0' ['id=__JSBridgeIframe_1.0__']
+21:46:12.675 record-api.js:71 FrameLocation updated to {location: 'root:0', locators: Array(1)}
+21:46:12.676 record-api.js:66 Received locators in 'root:1' ['id=__JSBridgeIframe_SetResult_1.0__']
+21:46:12.676 record-api.js:71 FrameLocation updated to {location: 'root:1', locators: Array(1)}
+21:46:12.676 record-api.js:66 Received locators in 'root:2' ['id=__JSBridgeIframe__']
+21:46:12.676 record-api.js:71 FrameLocation updated to {location: 'root:2', locators: Array(1)}
+21:46:12.677 record-api.js:66 Received locators in 'root:3' ['id=__JSBridgeIframe_SetResult__']
+21:46:12.677 record-api.js:71 FrameLocation updated to {location: 'root:3', locators: Array(1)}
+21:46:12.696 record-api.js:30 Received from "root:5" in "root"
+21:46:12.815 record-api.js:66 Received locators in 'root:5' ['css=iframe.ot-text-resize']
+21:46:12.816 record-api.js:71 FrameLocation updated to {location: 'root:5', locators: Array(1)}
+21:46:13.085 record-api.js:169 root:6
+21:46:13.227 record-api.js:169 root:7
+21:46:13.238 record-api.js:30 Received from "root:6" in "root"
+21:46:13.350 record-api.js:66 Received locators in 'root:6' ['css=iframe[title="Criteo Fledge iframe"]']
+21:46:13.350 record-api.js:71 FrameLocation updated to {location: 'root:6', locators: Array(1)}
+21:46:13.873 event?a=94689&v=5.23.0&otl=1&p0=e%3Dce%26m%3D%255Bc47c308487b371f08d0f413b062eeb5e8888e05aa545f52b634668e4945ba910%255D%26h%3Dsha256&p1=e%3Dexd%26site_type%3Dd%26z%3D&p2=e%3Dvpg&p3=e%3Ddis&adce=1&bundle=Fu0FfF9xUVhxTjlmYmhiJTJCUHU2dUlpcUdlMU9RVzNRU0dHb1hEempUQW9RYVVOZ3FaeGZ4UXRIVmRkc2JvZ2dyTnVhcU0wU2k5RnVYUHQxZ3ZsalhOb29reHh4NTRZZkpmTiUyQkxFMkF3JTJCUzExS2wlMkZ3eEJsbzJBeTlSTkoxc2UyWk15RkRNT2VETk85UXNuQVpmb0QzJTJCWm84UFoya2hOZm5DRjNHQ1JQRkRRU09teXBvJTNE&tld=desigual.com&dy=1&fu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252Fnew%252Fdesigual%252Flanding%252F&pu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252F&ceid=1a7ebc38-1e71-4987-8060-14170cf9fb74&dtycbr=67978:1 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+callDisInternal @ event?a=94689&v=5.23.0&otl=1&p0=e%3Dce%26m%3D%255Bc47c308487b371f08d0f413b062eeb5e8888e05aa545f52b634668e4945ba910%255D%26h%3Dsha256&p1=e%3Dexd%26site_type%3Dd%26z%3D&p2=e%3Dvpg&p3=e%3Ddis&adce=1&bundle=Fu0FfF9xUVhxTjlmYmhiJTJCUHU2dUlpcUdlMU9RVzNRU0dHb1hEempUQW9RYVVOZ3FaeGZ4UXRIVmRkc2JvZ2dyTnVhcU0wU2k5RnVYUHQxZ3ZsalhOb29reHh4NTRZZkpmTiUyQkxFMkF3JTJCUzExS2wlMkZ3eEJsbzJBeTlSTkoxc2UyWk15RkRNT2VETk85UXNuQVpmb0QzJTJCWm84UFoya2hOZm5DRjNHQ1JQRkRRU09teXBvJTNE&tld=desigual.com&dy=1&fu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252Fnew%252Fdesigual%252Flanding%252F&pu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252F&ceid=1a7ebc38-1e71-4987-8060-14170cf9fb74&dtycbr=67978:1
+c @ event?a=94689&v=5.23.0&otl=1&p0=e%3Dce%26m%3D%255Bc47c308487b371f08d0f413b062eeb5e8888e05aa545f52b634668e4945ba910%255D%26h%3Dsha256&p1=e%3Dexd%26site_type%3Dd%26z%3D&p2=e%3Dvpg&p3=e%3Ddis&adce=1&bundle=Fu0FfF9xUVhxTjlmYmhiJTJCUHU2dUlpcUdlMU9RVzNRU0dHb1hEempUQW9RYVVOZ3FaeGZ4UXRIVmRkc2JvZ2dyTnVhcU0wU2k5RnVYUHQxZ3ZsalhOb29reHh4NTRZZkpmTiUyQkxFMkF3JTJCUzExS2wlMkZ3eEJsbzJBeTlSTkoxc2UyWk15RkRNT2VETk85UXNuQVpmb0QzJTJCWm84UFoya2hOZm5DRjNHQ1JQRkRRU09teXBvJTNE&tld=desigual.com&dy=1&fu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252Fnew%252Fdesigual%252Flanding%252F&pu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252F&ceid=1a7ebc38-1e71-4987-8060-14170cf9fb74&dtycbr=67978:1
+load (async)
+callDis @ event?a=94689&v=5.23.0&otl=1&p0=e%3Dce%26m%3D%255Bc47c308487b371f08d0f413b062eeb5e8888e05aa545f52b634668e4945ba910%255D%26h%3Dsha256&p1=e%3Dexd%26site_type%3Dd%26z%3D&p2=e%3Dvpg&p3=e%3Ddis&adce=1&bundle=Fu0FfF9xUVhxTjlmYmhiJTJCUHU2dUlpcUdlMU9RVzNRU0dHb1hEempUQW9RYVVOZ3FaeGZ4UXRIVmRkc2JvZ2dyTnVhcU0wU2k5RnVYUHQxZ3ZsalhOb29reHh4NTRZZkpmTiUyQkxFMkF3JTJCUzExS2wlMkZ3eEJsbzJBeTlSTkoxc2UyWk15RkRNT2VETk85UXNuQVpmb0QzJTJCWm84UFoya2hOZm5DRjNHQ1JQRkRRU09teXBvJTNE&tld=desigual.com&dy=1&fu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252Fnew%252Fdesigual%252Flanding%252F&pu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252F&ceid=1a7ebc38-1e71-4987-8060-14170cf9fb74&dtycbr=67978:1
+(anonymous) @ event?a=94689&v=5.23.0&otl=1&p0=e%3Dce%26m%3D%255Bc47c308487b371f08d0f413b062eeb5e8888e05aa545f52b634668e4945ba910%255D%26h%3Dsha256&p1=e%3Dexd%26site_type%3Dd%26z%3D&p2=e%3Dvpg&p3=e%3Ddis&adce=1&bundle=Fu0FfF9xUVhxTjlmYmhiJTJCUHU2dUlpcUdlMU9RVzNRU0dHb1hEempUQW9RYVVOZ3FaeGZ4UXRIVmRkc2JvZ2dyTnVhcU0wU2k5RnVYUHQxZ3ZsalhOb29reHh4NTRZZkpmTiUyQkxFMkF3JTJCUzExS2wlMkZ3eEJsbzJBeTlSTkoxc2UyWk15RkRNT2VETk85UXNuQVpmb0QzJTJCWm84UFoya2hOZm5DRjNHQ1JQRkRRU09teXBvJTNE&tld=desigual.com&dy=1&fu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252Fnew%252Fdesigual%252Flanding%252F&pu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252F&ceid=1a7ebc38-1e71-4987-8060-14170cf9fb74&dtycbr=67978:2
+(anonymous) @ event?a=94689&v=5.23.0&otl=1&p0=e%3Dce%26m%3D%255Bc47c308487b371f08d0f413b062eeb5e8888e05aa545f52b634668e4945ba910%255D%26h%3Dsha256&p1=e%3Dexd%26site_type%3Dd%26z%3D&p2=e%3Dvpg&p3=e%3Ddis&adce=1&bundle=Fu0FfF9xUVhxTjlmYmhiJTJCUHU2dUlpcUdlMU9RVzNRU0dHb1hEempUQW9RYVVOZ3FaeGZ4UXRIVmRkc2JvZ2dyTnVhcU0wU2k5RnVYUHQxZ3ZsalhOb29reHh4NTRZZkpmTiUyQkxFMkF3JTJCUzExS2wlMkZ3eEJsbzJBeTlSTkoxc2UyWk15RkRNT2VETk85UXNuQVpmb0QzJTJCWm84UFoya2hOZm5DRjNHQ1JQRkRRU09teXBvJTNE&tld=desigual.com&dy=1&fu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252Fnew%252Fdesigual%252Flanding%252F&pu=https%253A%252F%252Fwww.desigual.com%252Fen_US%252F&ceid=1a7ebc38-1e71-4987-8060-14170cf9fb74&dtycbr=67978:3
+21:46:14.009 record-api.js:169 root:8
+21:46:14.169 record-api.js:169 root:8:0
+21:46:14.262 record-api.js:30 Received from "root:7" in "root"
+21:46:14.272 record-api.js:30 Received from "root:8" in "root"
+21:46:14.290 record-api.js:30 Received from "root:8:0" in "root:8"
+21:46:14.365 record-api.js:66 Received locators in 'root:7' ['css=body.logged.loyalty-lvl-1 > iframe']
+21:46:14.366 record-api.js:71 FrameLocation updated to {location: 'root:7', locators: Array(1)}
+21:46:14.418 record-api.js:66 Received locators in 'root:8' ['css=iframe[title="Criteo DIS iframe"]']
+21:46:14.419 record-api.js:71 FrameLocation updated to {location: 'root:8', locators: Array(1)}
+21:46:14.424 record-api.js:66 Received locators in 'root:8:0' (2) ['css=iframe[title="Criteo DIS iframe"]', 'id=cto_sub_ifr_px']
+21:46:14.425 record-api.js:71 FrameLocation updated to {location: 'root:8:0', locators: Array(2)}
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:15.230 Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+21:46:16.217 record-api.js:169 root:11
+21:46:16.343 record-api.js:30 Received from "root:11" in "root"
+21:46:16.455 record-api.js:66 Received locators in 'root:11' ['id=fileUploadIframe']
+21:46:16.455 record-api.js:71 FrameLocation updated to {location: 'root:11', locators: Array(1)}
+21:46:16.596 record-api.js:169 root:12
+21:46:16.852 record-api.js:169 root:10
+21:46:17.152 record-api.js:30 Received from "root:12" in "root"
+21:46:17.166 record-api.js:30 Received from "root:10" in "root"
+21:46:17.214 SnapInLib?versionModified=v2.2:836 onSettingsCallCompleted event was fired. Agent availability status = true
+21:46:17.253 record-api.js:66 Received locators in 'root:12' ['id=esw_storage_iframe']
+21:46:17.254 record-api.js:71 FrameLocation updated to {location: 'root:12', locators: Array(1)}
+21:46:17.269 logChannelMenu.html?parent=https://www.desigual.com/en_US/new/desigual/landing/:39 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+    at logChannelMenu.html?parent=https://www.desigual.com/en_US/new/desigual/landing/:39:140
+(anonymous) @ logChannelMenu.html?parent=https://www.desigual.com/en_US/new/desigual/landing/:39
+21:46:17.269 record-api.js:66 Received locators in 'root:10' ['id=eswframeForLog']
+21:46:17.270 record-api.js:71 FrameLocation updated to {location: 'root:10', locators: Array(1)}
+21:46:28.291 VM3227 widget-gallery.js:1 Uncaught TypeError: Cannot read properties of null (reading 'style')
+    at At.playVideo (VM3227 widget-gallery.js:1:18211)
+playVideo @ VM3227 widget-gallery.js:1
+21:46:29.481 VM3227 widget-gallery.js:1 Uncaught TypeError: Cannot read properties of null (reading 'style')
+    at At.playVideo (VM3227 widget-gallery.js:1:18211)
+playVideo @ VM3227 widget-gallery.js:1
+21:47:07.455 SnapInLib?versionModified=v2.2:898 onAvailability event was fired. Agent availability status = true

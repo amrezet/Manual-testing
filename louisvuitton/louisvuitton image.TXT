@@ -1,0 +1,35 @@
+Title:
+Windows 10 - Search results page - The page "World of Louis Vuitton" not displays the complete result.
+
+Action Performed:
+1. Open the testing website https://us.louisvuitton.com/eng-us/homepage
+2. Select the search icon
+3. Input "vi" in the search bar
+4. Choose "World of Louis Vuitton" from the search results page
+
+Expected Result:
+When the user clicks on "World of Louis Vuitton" on the search results page, the correct information will be displayed.
+
+Actual Result:
+When the user clicks on a search icon, selecting "World of Louis Vuitton" displays details about it on the search results page. The placeholder for the image is currently empty.
+
+Did you attach a screenshot?: 926878
+Did you submit your test case?: 926876
+Did you attach a Log with timestamps?: 926875
+Did you attach an mp4 video?: 926874
+Attachment
+us.louisvuitton.com-1712331269288.txt: https://platform.utest.com/services/links/v1/internal/50331611?.txt
+Recording__7.mp4: https://platform.utest.com/services/links/v1/internal/50331654?.mp4
+Untitfled.png: https://platform.utest.com/services/links/v1/internal/50331681?.png
+
+Environment
+Windows 10 - Chrome
+
+Applause ID: 6437550
+Applause Status: Disputed
+Valuable: 
+Creation Date: 04/04/2024
+Bug Type: Visual
+Frequency: Every Time
+Severity: Medium
+

@@ -1,0 +1,34 @@
+Title:
+Windows 10 - The product detail page displays the price in a different currency.
+
+Action Performed:
+1. Open the testing website https://www.kendrascott.com/
+2. Scroll down to the "Trending Now"
+3. Click any item
+4. Scroll down to the "Recommended for You"
+
+Expected Result:
+The page shows the products in the local currency.
+
+Actual Result:
+When viewing the product page and browsing other items, the products are displayed in a different currency.
+
+Did you attach an mp4 video?: 965606
+Did you attach a Log with timestamp?: 965605
+Exact URL: https://www.kendrascott.com/new/shop-all-new-arrivals/brynne-gold-shell-short-pendant-necklace-in-blush-ivory-mother-of-pearl/196088600970.html
+Did you attach a screenshot?: 965604
+Attachment
+www.kendrascott.com-1715809442708.txt: https://platform.utest.com/services/links/v1/internal/51184980?.txt
+Recording__15.mp4: https://platform.utest.com/services/links/v1/internal/51184981?.mp4
+Screenshot_2024-05-16_003826.jpg: https://platform.utest.com/services/links/v1/internal/51184982?.jpg
+
+Environment
+Windows 10 - Chrome
+
+Applause ID: 6482072
+Applause Status: New
+Valuable: 
+Creation Date: 05/15/2024
+Bug Type: Functional
+Frequency: Every Time
+Severity: High
